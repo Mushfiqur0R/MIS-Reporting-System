@@ -3,7 +3,7 @@ A sample MIS Reporting System using Excel pivot tables and charts (Bar, Line, Pi
 
 # MIS Reporting Dashboard (Excel-Based)
 
-This project demonstrates a sample **Management Information System (MIS) Reporting Dashboard** built using **Microsoft Excel**.
+This project demonstrates a sample Management Information System (MIS) Reporting Dashboard built using Microsoft Excel.
 
 ## 📊 Features Included:
 - ✅ Bar Chart: Compare sales across different regions and product categories.
@@ -22,4 +22,4 @@ This project demonstrates a sample **Management Information System (MIS) Reporti
 - Dashboard demo for data visualization skills.
 
 ## 📷 Sample Preview
-![MIS Dashboard Preview](relative/path/to/screenshot.png)
+![MIS Dashboard Preview](relative/path/to/mis-report.png)
