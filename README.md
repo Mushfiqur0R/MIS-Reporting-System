@@ -22,4 +22,4 @@ This project demonstrates a sample Management Information System (MIS) Reporting
 - Dashboard demo for data visualization skills.
 
 ## 📷 Sample Preview
-![MIS Dashboard Preview](relative/path/to/mis-report.png)
+![MIS Dashboard Preview](mis-report.png)
